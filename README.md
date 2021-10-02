@@ -1,1 +1,2 @@
-# TeknikOptimasi
+# Latihan Teknik Optimasi
+kumpulan latihan 
